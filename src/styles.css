@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: linear-gradient(90deg, 
+    #6938D1, 
+    #4A4CCF, 
+    #7232D2, 
+    #4152CE, 
+    #7530D2  );
+    background-blend-mode:multiply;
+    filter: brightness(1.1);
+}

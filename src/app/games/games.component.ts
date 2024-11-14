@@ -9,21 +9,4 @@ import { PrimerComponenteComponent } from '../primer-componente/primer-component
   styleUrl: './games.component.css'
 })
 export class GamesComponent {
-  @Input() nombre ='';
-  games=[{
-    id:1,
-    name:"Counter",
-  },
-  {
-    id:2,
-    name:"GTA V",
-  },
-  {
-    id:3,
-    name:"PUGB",
-  }
-]
-evento(){
-  alert("Skin Daniel")
-}
 }

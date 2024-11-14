@@ -62,7 +62,8 @@
 .header__img2{
     display: block;
     position: absolute;
-    left: -2%;
-    height: 300px;
-    transform: rotate(352deg);
+    left: -8%;
+    height: 508px;
+    transform: rotate(366deg);
+    top: -46px;
 }
